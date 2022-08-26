@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding:0px;
+    outline: 0px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0px;
+}
+.heading{
+    margin-left: 100px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+    width: 100vw;
+    height: 50vh;   
+}
+
+.services{
+
+    width: 200px;
+    height: 200px;
+    padding: 20px 30px;
+}
+
+.services>h4{
+    font-size: 25px;
+    padding: 10px;
+}
+
+.services>p{
+    padding: 10px;
+    
+}
+
+.services>p>a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+.social-media{
+
+    width: 200px;
+    height: 200px;
+    padding: 20px 30px;
+}
+
+.social-media>h4{
+    font-size: 25px;
+    padding: 10px;
+}
+
+.social-media>p{
+    padding: 8px;
+    
+}
+
+.social-media>p>a{
+    text-decoration: none;
+    color: #000;
+}
+
+.links{
+
+    width: 200px;
+    height: 200px;
+    padding: 20px 30px;
+}
+
+.links>h4{
+    font-size: 25px;
+    padding: 10px;
+}
+
+.links>p{
+    padding: 8px;
+    
+}
+
+.links>p>a{
+    text-decoration: none;
+    color: #000;
+}
+
+.details{
+
+    width: 200px;
+    height: 250px;
+    padding: 20px 30px;
+}
+
+.details>h4{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.details>p{
+    padding: 5px;
+    
+}
+.details>p>a{
+    text-decoration: none;
+    color: #000;
+}
+
+footer{
+    height: 50px;
+    text-align: center;
+}
+
+

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;700&family=Roboto:wght@700&display=swap');
+
+*{
+    margin: 0px;
+    padding:0px;
+    outline: 0px;
+}
+
+nav{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    background-color: #242B2E;
+    width: 37vw;
+    height: 8vh;
+    border-radius: 10px;
+}
+
+a{
+    
+  float:left;
+  color: #CAD5E2;
+  text-align: center;
+  padding: 3vh 2vw;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Roboto";
+}
+
+.nav-item:nth-child(3){
+    color: #02B290;
+}
+
+
+
+

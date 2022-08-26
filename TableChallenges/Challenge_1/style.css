@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+* {
+  font-family: "poppins", "verdana";
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("./images/images.jpg"); 
+
+ 
+}
+.container{
+  width: 100vw;
+  height: 100vh;
+
+
+ margin:100px ;
+ margin:auto ;
+ margin-top: 80px;
+ 
+ color: #ffffff;
+ text-align: center;
+
+}
+
+.yo{
+ 
+  width: 500px;
+  margin-left:300px ;
+}
+
+input{
+  border-radius: 10px;
+}
+
+button{
+  width: 300px;
+  border-radius:10px ;
+  height: 30px;
+  color: #000;
+  background-color: #609EA0;
+}
